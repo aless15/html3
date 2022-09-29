@@ -1,39 +1,24 @@
-# History files
-.Rhistory
-.Rapp.history
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+       <meta charset="utf-8">
+       <title>Barbearia alura</title>
+       <link real="stylesheet" href="style.css">
 
-# Session Data files
-.RData
+          <style>
+           </style>
+    </head>
 
-# User-specific files
-.Ruserdata
+     <body>
+   		 <h1 style= "text-align: center;"> Sobre a barbearia Alura</h1>
+ 
+         <p>Localizada no coração da cidade a<strong> Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. 
+          Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia </p>
 
-# Example code in package build process
-*-Ex.R
-
-# Output files from R CMD build
-/*.tar.gz
-
-# Output files from R CMD check
-/*.Rcheck/
-
-# RStudio files
-.Rproj.user/
-
-# produced vignettes
-vignettes/*.html
-vignettes/*.pdf
-
-# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
-.httr-oauth
-
-# knitr and R markdown default cache directories
-*_cache/
-/cache/
-
-# Temporary files created by R markdown
-*.utf8.md
-*.knit.md
-
-# R Environment Variables
-.Renviron
+         <p style="font-size: 20px; text-align: center"><em>Nossa missão é:<strong>"Proporcionar auto-estima e qualidade de vida aos clientes".<strong>.</em></p>
+ 
+         <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda.
+     O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.
+         </p>  	
+     </body>
+  </html>
